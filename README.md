@@ -33,7 +33,7 @@ Create Several Dishes in the Menu post type using the Taxonomy Dish Options to m
 
 ## Authors
 
-* **Choni** - *Initial work* - [code-fish.eu](https://code-fish.eu)
+* **Choni** - *Adapted to Custom Post Types* - [code-fish.eu](https://code-fish.eu)
 
 
 ## Acknowledgments
